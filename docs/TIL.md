@@ -8,6 +8,6 @@ created: 1624365072799
 ### Today I learned series
 Daily addition of new information, data or trivia 
 
-[[Barcodes and QR codes|TIL.qrcode]]
-[[Microwave|TIL.microwave]]
-[[Stenography|TIL.stenography]]
+[Barcodes and QR codes](./TIL.qrcode.md)
+[Microwave](./TIL.microwave.md)
+[Stenography](./TIL.stenography.md)

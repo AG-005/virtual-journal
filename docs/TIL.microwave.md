@@ -13,3 +13,5 @@ _Source:_ [[How a microwave oven works](https://www.youtube.com/watch?v=kp33ZprO
 
 - MyNote: Hence metals which do not have H2O molecules are not supported in most microwaves
 Utensils which are microwave safe must have molecules which have a similar exitability effect
+
+[Back to TIL Series](./TIL.md)

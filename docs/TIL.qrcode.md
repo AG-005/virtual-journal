@@ -27,3 +27,5 @@ _Source:_ [How QR codes work](https://www.youtube.com/watch?v=142TGhaTMtI)
 - Bottom right four squares represent data type
 - From there one byte at a time, _upward-left_ and _downward-right_ zig zag
 - In case of continuous black/white stretches, a mask is used to flip the pixel values at certain cells according to the mask formula (depends on multiple factors)
+
+[Back to TIL Series](./TIL.md)

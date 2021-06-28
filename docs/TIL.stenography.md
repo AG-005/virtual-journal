@@ -19,3 +19,5 @@ How to take faster handwritten notes using shorthand techniques - College Info G
 [Article](https://collegeinfogeek.com/shorthand-lecture-notes/) | [YouTube video](https://www.youtube.com/watch?v=uL_YjcGoszo)
 
 [This](https://www.youtube.com/watch?v=QnvFqmtmc6E) is how a court reporter typewriter works - BuzzFeed Video
+
+[Back to TIL Series](./TIL.md)

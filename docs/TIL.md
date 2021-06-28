@@ -10,4 +10,7 @@ Daily addition of new information, data or trivia
 
 [Barcodes and QR codes](./TIL.qrcode) <br>
 [Microwave](./TIL.microwave)<br>
-[Stenography](./TIL.stenography)
+[Stenography](./TIL.stenography)<br><br>
+
+
+[Back to home page](./index.md)

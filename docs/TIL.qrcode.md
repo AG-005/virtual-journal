@@ -1,10 +1,3 @@
----
-id: bo2s0R-hqlchHkuYbV533
-title: qrcode
-desc: ''
-updated: 1624387570056
-created: 1624365164913
----
 # Bar codes and QR codes
 _Source:_ QR codes and barcodes [explained](https://www.youtube.com/watch?v=qYvqFV4Rf8c&t=250s)
 
@@ -23,7 +16,7 @@ _Source:_ [How Barcodes work](https://www.youtube.com/watch?v=e6aR1k-ympo)
 #### QR(Quick Response) codes
 _Source:_ [How QR codes work](https://www.youtube.com/watch?v=142TGhaTMtI)
 - Grid of squares, 21x21 standard, bigger also used<br><br>
-![Example of a QR Code grid](./assets/images/qr-code-grid.jpg)
+![Example of a QR Code grid](./assets/images/qr-code-grid.jpg)<br><br>
 - Three corners with standard pattern for orientation detection
 - Error protection bytes around placeholders
 - Bottom right four squares represent data type

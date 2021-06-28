@@ -31,11 +31,15 @@ Inspired by and dedicated to the greynders<br><br>
 > The conviction that fear is just one obstacle of the path I walk, and that I am made of something bigger than this.<br>
 > I need to get rid of this and actualize by best self if I am to attempt that big, noble and meaningful thing<br>
 > This is the thread that ties everything together
+<br>
+---
+
+### TIL(Today I Learned) Series
+
+Grow your knowledge base, one day at a time <br>
+Regular addition of new information, data or trivia<br>
+[TIL Series](./TIL.md)
 
 ---
 
-#### TIL(Today I Learned) Series
-
-Grow your knowledge base, one day at a time
-Regular addition of new information, data or trivia<br>
-[TIL Series](./TIL.md)
+#### Resources

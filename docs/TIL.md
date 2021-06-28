@@ -1,6 +1,3 @@
----
-title: TIL
----
 ### Today I learned series
 Daily addition of new information, data or trivia<br>
 Learn one new thing every day

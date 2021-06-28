@@ -9,7 +9,7 @@ This page is a constantly growing compliation of resources, information and expe
 
 ---
 
-## The 5 Cs
+## The Path of 5 Cs
 Inspired by and dedicated to the greynders<br><br>
 
 ### Consciousness
@@ -36,6 +36,6 @@ Inspired by and dedicated to the greynders<br><br>
 
 #### TIL(Today I Learned) Series
 
-Grow your knowledge base one day at a time
-Regular addition of new information, data or trivia
+Grow your knowledge base, one day at a time
+Regular addition of new information, data or trivia<br>
 [TIL Series](./TIL.md)

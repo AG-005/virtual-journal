@@ -1,9 +1,5 @@
 ---
-id: VWK_G3PYZPrBXkfiyuHU-
 title: stenography
-desc: ''
-updated: 1624729954628
-created: 1624728718738
 ---
 _" the action or process of writing in **shorthand** and transcribing the shorthand on a typewriter. "_
 ### Shorthand:

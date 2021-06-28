@@ -1,16 +1,13 @@
 ---
-id: 159w4hmnrtXVkIzQrKiNg
 title: TIL
-desc: ''
-updated: 1624740124846
-created: 1624365072799
 ---
 ### Today I learned series
-Daily addition of new information, data or trivia 
+Daily addition of new information, data or trivia<br>
+Learn one new thing every day
 
-[Barcodes and QR codes](./TIL.qrcode) <br>
-[Microwave](./TIL.microwave)<br>
-[Stenography](./TIL.stenography)<br><br>
+[Barcodes and QR codes](./TIL.qrcode.md) <br>
+[Microwave](./TIL.microwave.md)<br>
+[Stenography](./TIL.stenography.md)<br><br>
 
 
 [Back to home page](./index.md)

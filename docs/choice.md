@@ -1,5 +1,6 @@
 # Choice
 This article goes over an interpretion of choice, the underlying power it has and how it impacts our life in ways that we don't tend to think about consciously
+
 ___
 
 > ### Disclaimer: 
@@ -25,6 +26,8 @@ In this example one may be tempted to think that the choice is only an illusion 
 \
 The intention of this article is **not** to talk about the validity or the morality or the doability of the choice, as that is heavily circumstantial. 
 The aim is to introduce the notion that in each and every situation, there is a choice.
+
+___
 
 ## Isn't that trivial?
 An obvious question especially considering the previous example would be, okay you say the choice of not taking your hand away from a hot vessel does exist, but isn't it useless?\

@@ -30,3 +30,5 @@ Isn't that as good as not having that choice in the first place?\
 Because obviously almost no one would want to choose that, so doesn't that make its existence trivial and not worth talking about?\
 \
 These are extremely valid questions, and will hopefully be answered satisfactorily by the end of this article
+
+</div>

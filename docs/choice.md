@@ -61,10 +61,10 @@ Another example could be (?)
 Another type of decision that is similar in nature in terms of being unconscious are trivial, small scale decisions which don't need any complicated thought process. These are usually delegated to sub-conscious decision making parts of the brain which automates them without much conscious effort necessary.\
 \
 If you have followed till here, the question\
- _what's the point of all this discussion?_\
- would be very natural. Here's the answer.
+_what's the point of all this discussion?_\
+would be very natural. Here's the answer.
 
- ## So what?
+## So what?
 The above description was a setup for this proposition.
 
  >### Proposition:
@@ -82,10 +82,9 @@ This proposition comes with a disclaimer much longer than the proposition itself
  >### Disclaimer:
  > The proposition statement in isolation can be very misleading, and even stupid. The entire article goes over a detailed description of the intended interpretation. To think of it in any other way would be the reader's personal _choice_.\
  \
- > This proposition may also seem obvious and irrelevant. Obvious in cases when in general one may easily say 'I had no choice', and irrelevant in other cases where the availability of choices is clear. (Like choosing which clothes to wear)
+ >This proposition may also seem obvious and irrelevant. Obvious in cases when in general one may easily say 'I had no choice', and irrelevant in other cases where the availability of choices is clear. (Like choosing which clothes to wear)
  >Interestingly enough, this is the **exact** reason to think about it consciously.
 
-
- ## The journey from the unconscious to the conscious
+## The journey from the unconscious to the conscious
 
 

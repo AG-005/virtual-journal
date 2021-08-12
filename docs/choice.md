@@ -64,9 +64,8 @@ If you have followed till here, the question\
  _what's the point of all this discussion?_\
  would be very natural. Here's the answer.
 
-
  ## So what?
- \
+ 
  The above description was a setup for this proposition.
  >### Proposition:
  >Every single decision and action that a human makes is a choice.
@@ -88,4 +87,4 @@ This proposition comes with a disclaimer much longer than the proposition itself
 
 
  ## The journey from the unconscious to the conscious
- 
+

@@ -58,18 +58,18 @@ They are more likely to be quick and could be termed as impulsive or seemingly _
 This does not mean that either of the choices is better in any sense. The point is to establish that this is a choice, much like everything else that one does.\
 Another example could be (?)
 
-Another type pf decision that is similar in nature in terms of being unconscious are trivial, small scale decisions which don't need any complicated thought process. These are usually delegated to sub-conscious decision making parts of the brain which automates them without much conscious effort necessary.\
+Another type of decision that is similar in nature in terms of being unconscious are trivial, small scale decisions which don't need any complicated thought process. These are usually delegated to sub-conscious decision making parts of the brain which automates them without much conscious effort necessary.\
 \
 If you have followed till here, the question\
  _what's the point of all this discussion?_\
  would be very natural. Here's the answer.
 
  ## So what?
- 
- The above description was a setup for this proposition.
+The above description was a setup for this proposition.
+
  >### Proposition:
- >Every single decision and action that a human makes is a choice.
- \Even in seemingly obvious and trivial situations, every single thing that someone says or does(broadly) is a choice.
+ >Every single decision and action that a human makes is a choice.\
+ >Even in seemingly obvious and trivial situations, every single thing that someone says or does(broadly) is a choice.
 
 
  The choice may be conscious or unconscious.\
@@ -87,4 +87,5 @@ This proposition comes with a disclaimer much longer than the proposition itself
 
 
  ## The journey from the unconscious to the conscious
+
 

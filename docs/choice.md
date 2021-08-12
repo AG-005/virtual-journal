@@ -30,6 +30,7 @@ The aim is to introduce the notion that in each and every situation, there is a 
 ___
 
 ## Isn't that trivial?
+
 An obvious question especially considering the previous example would be, okay you say the choice of not taking your hand away from a hot vessel does exist, but isn't it useless?\
 Isn't that as good as not having that choice in the first place?\
 Because obviously almost no one would want to choose that, so doesn't that make its existence trivial and not worth talking about?\
@@ -63,7 +64,9 @@ If you have followed till here, the question\
  _what's the point of all this discussion?_\
  would be very natural. Here's the answer.
 
+
  ## So what?
+ \
  The above description was a setup for this proposition.
  >### Proposition:
  >Every single decision and action that a human makes is a choice.
@@ -76,10 +79,13 @@ If you have followed till here, the question\
 
 This proposition comes with a disclaimer much longer than the proposition itself. And this entire article can be considered as an extension of the disclaimer in some sense. This is necessary because of the subtleties involved and the scope for multiple misinterpretations of the proposition
 
+
  >### Disclaimer:
  > The proposition statement in isolation can be very misleading, and even stupid. The entire article goes over a detailed description of the intended interpretation. To think of it in any other way would be the reader's personal _choice_.\
  \
  > This proposition may also seem obvious and irrelevant. Obvious in cases when in general one may easily say 'I had no choice', and irrelevant in other cases where the availability of choices is clear. (Like choosing which clothes to wear)
  >Interestingly enough, this is the **exact** reason to think about it consciously.
 
+
  ## The journey from the unconscious to the conscious
+ 
